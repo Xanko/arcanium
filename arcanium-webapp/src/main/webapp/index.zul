@@ -1,0 +1,4 @@
+<zk>
+	<zscript>Executions.sendRedirect("/protected/welcome.zul");</zscript>
+
+</zk>
