@@ -31,8 +31,8 @@
 	<properties>
 		<zk-version>6.5.0</zk-version>
 		<zkspring-version>3.1.1</zkspring-version>
-		<spring-version>3.1.1.RELEASE</spring-version>
-		<spring-security-version>3.1.1.RELEASE</spring-security-version>
+		<spring-version>3.0.7.RELEASE</spring-version>
+		<spring-security-version>3.0.7.RELEASE</spring-security-version>
 		<servlet-version>2.5</servlet-version>
 		<cglib-version>2.2.2</cglib-version>
 		<checkstyleLocation>checkstyle.xml</checkstyleLocation>
