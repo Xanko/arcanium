@@ -1,5 +1,0 @@
-<zk>
-	<div apply="org.zkoss.bind.BindComposer" viewModel="@id('vm') @init('org.serverlabs.arcanium.webapp.model.HelloModel')" height="100%">
-		<button onClick="@command('getGroup')" label="Get Group 1" />
-	</div>
-</zk>

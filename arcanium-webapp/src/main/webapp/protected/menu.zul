@@ -1,0 +1,28 @@
+<zk xmlns:n="native">
+	<menubar id="menubar" autodrop="true" width="100%">
+		<menuitem label="Home" onClick="alert(self.label)" />
+		<menu label="Software">
+			<menupopup>
+				<menuitem label="Browsers and Plugins"
+					onClick="alert(self.label)" />
+				<menuitem label="Firewalls and Security"
+					onClick="alert(self.label)" />
+				<menuitem label="Audio and Video"
+					onClick="alert(self.label)" />
+				<menuitem label="Photos and Images"
+					onClick="alert(self.label)" />
+				<menuitem label="Desktop" onClick="alert(self.label)" />
+				<menuitem label="Office and News"
+					onClick="alert(self.label)" />
+				<menuitem label="Developer Tools"
+					onClick="alert(self.label)" />
+				<menuitem label="Others" onClick="alert(self.label)" />
+			</menupopup>
+		</menu>
+		<menuitem label="Gaming" onClick="alert(self.label)" />
+		<menuitem label="TV &amp; Audio" onClick="alert(self.label)" />
+		<menuitem label="Photo &amp; Video" onClick="alert(self.label)" />
+		<menuitem label="Communication" onClick="alert(self.label)" />
+	</menubar>
+	<!-- End Menu -->
+</zk>

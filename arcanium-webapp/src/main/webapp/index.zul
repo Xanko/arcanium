@@ -1,4 +1,4 @@
 <zk>
-	<zscript>Executions.sendRedirect("/protected/welcome.zul");</zscript>
+	<zscript>Executions.sendRedirect("/protected/root.zul");</zscript>
 
 </zk>

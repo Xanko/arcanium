@@ -1,0 +1,21 @@
+<zk xmlns:n="native">
+	<panel id="panel" height="100%" width="100%" border="normal">
+		<panelchildren>
+			<style src="/css/style.css" />
+			<image src="/img/banner.png" />
+			<borderlayout width="100%">
+				<north>
+					<!-- Begin Menu -->
+					<include src="/protected/menu.zul" />
+					<!-- End Menu -->
+				</north>
+				<center>
+					<include src="/protected/content.zul" />
+				</center>
+				<south>
+					<include src="/protected/footer.zul" />
+				</south>
+			</borderlayout>
+		</panelchildren>
+	</panel>
+</zk>
